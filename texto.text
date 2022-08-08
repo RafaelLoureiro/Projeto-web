@@ -1,0 +1,74 @@
+div class="container column">
+            <!--apenas para coloca na box-->
+            <section>
+                <div class="container column">
+                    <div class="banner_options-1">
+                        <div class="banner_1-1">
+                            <div class="banner_title">Health</div><br>
+                            <div class="banner_desc-1"><a href=""> tipo isso aleatório </a></div>
+
+                        </div>
+                        <div class="banner_2-2">
+                            <a href="">
+                                <div class="banner_title">Doctors Timetable</div>
+                                <div class="banner_desc-1">texto aleatório</div>
+
+                        </div>
+                        <div class="banner_3-3">
+                            <div class="banner_title">Openig Hours</div>
+                            <div class="banner_desc-1">texto aleatório</div>
+                        </div>
+                    </div>
+            </section>
+            <div class="footer_area">
+                <div class="footer_areaitem">
+                    <div class="widget_title">
+                        <div class="widget_title_text">Medcenter Clinic</div>
+                        <div class="widget_title_bar"></div><br>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p><br>
+                        <b>
+                            <div class="banner_desc_f">
+                                <p class="pf_1">Monday-Friday 8.00-17.00</p>
+                            </div>
+                            <div class="banner_desc_f">
+                                <p class="pf_2">Saturday 9.30-17.30</p>
+                            </div>
+                            <div class="banner_desc_f">
+                                <p class="pf_3">Sunday 9.30-15.00</p>
+                            </div>
+                        </b>
+                    </div>
+                    <div class="widget_body">
+                    </div>
+                </div>
+                <div class="footer_areaitem">
+                    <div class="widget_title">
+                        <div class="widget_title_text">Latest Posts</div>
+                        <div class="widget_title_bar"></div><br>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <a href="" class="time"><strong>6 years ago</strong></a><br><br>
+                        <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <a href="" class="time"><strong>6 years ago</strong></a>
+                    </div>
+                    <div class="widget_body">
+                    </div>
+                </div>
+                <div class="footer_areaitem">
+                    <div class="widget_title">
+                        <div class="widget_title_text">Lates Tweets</div>
+                        <div class="widget_title_bar"></div><br>
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't
+                            look
+                            even slightly <a href="">believable.com</a></p>
+                        <a href="" class="time"><strong>6 years ago</strong></a>
+                    </div>
+                    <div class="widget_body">
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copy">
+                Copyright - Todos direitos reservado a RAFAEl LOUREIRO DE MELO - SA
+            </div>
+        </div>
+        </div>
